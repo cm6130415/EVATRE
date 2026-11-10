@@ -1,0 +1,6 @@
+{
+  "name": "EVATRE · Busetas de Cúcuta y Los Patios",
+  "description": "Sistema de consulta de rutas de busetas, paradas y recorridos en el Área Metropolitana de Cúcuta y Los Patios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
